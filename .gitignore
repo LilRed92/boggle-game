@@ -6,12 +6,7 @@ __MACOSX/
 .LSOverride
 Icon[
 ]
-.node_modules/
-.history/
-node_modules/
-node_modules/.package-lock.json
-node_modules/iconv-lite/
-node_modules/qs/
+
 
 # Thumbnails
 ._*
@@ -31,3 +26,13 @@ node_modules/qs/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# Dev
+node_modules
+.node_modules/
+.history/
+node_modules/
+node_modules/.package-lock.json
+node_modules/iconv-lite/
+node_modules/qs/
